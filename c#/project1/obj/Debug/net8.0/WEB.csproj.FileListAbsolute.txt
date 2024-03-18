@@ -1,0 +1,15 @@
+/Users/yerkebulanalibek/Desktop/WEB/c#/project1/bin/Debug/net8.0/WEB
+/Users/yerkebulanalibek/Desktop/WEB/c#/project1/bin/Debug/net8.0/WEB.deps.json
+/Users/yerkebulanalibek/Desktop/WEB/c#/project1/bin/Debug/net8.0/WEB.runtimeconfig.json
+/Users/yerkebulanalibek/Desktop/WEB/c#/project1/bin/Debug/net8.0/WEB.dll
+/Users/yerkebulanalibek/Desktop/WEB/c#/project1/bin/Debug/net8.0/WEB.pdb
+/Users/yerkebulanalibek/Desktop/WEB/c#/project1/obj/Debug/net8.0/WEB.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yerkebulanalibek/Desktop/WEB/c#/project1/obj/Debug/net8.0/WEB.AssemblyInfoInputs.cache
+/Users/yerkebulanalibek/Desktop/WEB/c#/project1/obj/Debug/net8.0/WEB.AssemblyInfo.cs
+/Users/yerkebulanalibek/Desktop/WEB/c#/project1/obj/Debug/net8.0/WEB.csproj.CoreCompileInputs.cache
+/Users/yerkebulanalibek/Desktop/WEB/c#/project1/obj/Debug/net8.0/WEB.sourcelink.json
+/Users/yerkebulanalibek/Desktop/WEB/c#/project1/obj/Debug/net8.0/WEB.dll
+/Users/yerkebulanalibek/Desktop/WEB/c#/project1/obj/Debug/net8.0/refint/WEB.dll
+/Users/yerkebulanalibek/Desktop/WEB/c#/project1/obj/Debug/net8.0/WEB.pdb
+/Users/yerkebulanalibek/Desktop/WEB/c#/project1/obj/Debug/net8.0/WEB.genruntimeconfig.cache
+/Users/yerkebulanalibek/Desktop/WEB/c#/project1/obj/Debug/net8.0/ref/WEB.dll
