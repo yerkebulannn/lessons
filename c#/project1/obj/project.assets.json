@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yerkebulanalibek/Desktop/WEB/c#/project1/WEB.csproj",
+      "projectUniqueName": "/Users/yerkebulanalibek/Desktop/code/c#/project1/WEB.csproj",
       "projectName": "WEB",
-      "projectPath": "/Users/yerkebulanalibek/Desktop/WEB/c#/project1/WEB.csproj",
+      "projectPath": "/Users/yerkebulanalibek/Desktop/code/c#/project1/WEB.csproj",
       "packagesPath": "/Users/yerkebulanalibek/.nuget/packages/",
-      "outputPath": "/Users/yerkebulanalibek/Desktop/WEB/c#/project1/obj/",
+      "outputPath": "/Users/yerkebulanalibek/Desktop/code/c#/project1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/yerkebulanalibek/.nuget/NuGet/NuGet.Config"

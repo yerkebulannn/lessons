@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WEB
-build_property.ProjectDir = /Users/yerkebulanalibek/Desktop/WEB/c#/project1/
+build_property.ProjectDir = /Users/yerkebulanalibek/Desktop/code/c#/project1/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
